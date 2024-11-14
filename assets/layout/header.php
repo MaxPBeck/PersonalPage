@@ -50,7 +50,7 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="index.php" class="active">Home</a></li>
-          <li><a href="about.php">About</a></li>
+          <li><a href="about.php">CV</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>

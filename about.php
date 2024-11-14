@@ -3,8 +3,8 @@
     <!-- Page Title -->
     <div class="page-title dark-background">
       <div class="container position-relative">
-        <h1>About</h1>
-        <h5>My CV<h5>
+        <h1>My CV</h1>
+        
         
         <nav class="breadcrumbs">
           

@@ -84,7 +84,7 @@
       </div>
 
       <div class="mt-5" data-aos="fade-up" data-aos-delay="200">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2458.636774503218!2d8.844000099999999!3d51.9588148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba43939f84fb5b%3A0x7a3821e021446c3c!2sDAA%20German%20employees%20academy%20GmbH!5e0!3m2!1sen!2sde!4v1731582533316!5m2!1sen!2sde" width="1500" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframej" frameborder="" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2458.636774503218!2d8.844000099999999!3d51.9588148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba43939f84fb5b%3A0x7a3821e021446c3c!2sDAA%20German%20employees%20academy%20GmbH!5e0!3m2!1sen!2sde!4v1731582533316!5m2!1sen!2sde" width="2000" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframej" frameborder="" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div><!-- End Google Maps -->
 
     </section><!-- /Contact Section -->
