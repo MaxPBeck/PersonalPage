@@ -1,15 +1,12 @@
-<?php require_once('./assets/layout/footer.php'); ?> 
+<?php require_once('./assets/layout/header.php'); ?> 
 
     <!-- Page Title -->
     <div class="page-title dark-background">
       <div class="container position-relative">
-        <h1>Contact</h1>
-        <p>Esse dolorum voluptatum ullam est sint nemo et est ipsa porro placeat quibusdam quia assumenda numquam molestias.</p>
+        <h1>Hier können Sie mich kontaktieren</h1>
+        
         <nav class="breadcrumbs">
-          <ol>
-            <li><a href="index.html">Home</a></li>
-            <li class="current">Contact</li>
-          </ol>
+          
         </nav>
       </div>
     </div><!-- End Page Title -->
@@ -27,7 +24,7 @@
                 <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
                   <i class="bi bi-geo-alt"></i>
                   <h3>Address</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>Ohmstraße 6A, 32756, Detmold</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -43,7 +40,7 @@
                 <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
                   <i class="bi bi-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@example.com</p>
+                  <p>maxbeckettdaa@gmail.com</p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -87,7 +84,7 @@
       </div>
 
       <div class="mt-5" data-aos="fade-up" data-aos-delay="200">
-        <iframe style="border:0; width: 100%; height: 370px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2458.636774503218!2d8.844000099999999!3d51.9588148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ba43939f84fb5b%3A0x7a3821e021446c3c!2sDAA%20German%20employees%20academy%20GmbH!5e0!3m2!1sen!2sde!4v1731582533316!5m2!1sen!2sde" width="1500" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframej" frameborder="" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div><!-- End Google Maps -->
 
     </section><!-- /Contact Section -->
